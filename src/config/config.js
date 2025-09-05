@@ -1,0 +1,1 @@
+// Configuración global (ej: baseURL de API, env, rutas)
